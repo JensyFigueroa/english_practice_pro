@@ -1,27 +1,49 @@
-# React + TypeScript + Vite
+# Grammar & Listening Practice App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- Si tienes un logotipo, inclúyelo aquí -->
 
-Currently, two official plugins are available:
+Description
+The Grammar & Listening Practice App is a user-friendly tool designed to help you improve your English language skills through grammar exercises and listening practice. Whether you're a beginner or looking to refine your language abilities, our app is here to support your learning journey.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Description
 
-- Configure the top-level `parserOptions` property like this:
+The Grammar & Listening Practice App is a user-friendly tool designed to help you improve your English language skills through grammar exercises and listening practice. Whether you're a beginner or looking to refine your language abilities, our app is here to support your learning journey.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Features
+- `Grammar` Exercises: Access a wide range of interactive grammar exercises that cover various aspects of English grammar, including tenses, sentence structure, and more.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- `Listening Practice:` Enhance your listening comprehension with a collection of audio clips, dialogues, and recordings in different accents and contexts.
+
+- `User-Friendly Interface:` Our app offers an intuitive and user-friendly interface, making it easy for users of all levels to navigate and practice effectively.
+
+- `Progress Tracking:` Keep track of your progress with detailed statistics and performance insights. Set and achieve language learning goals.
+
+- `Customization:` Tailor your practice sessions by selecting specific grammar topics or listening materials that match your interests and learning objectives.
+
+- Multi-Platform Access: Use the app on your smartphone, tablet, or computer for convenient access wherever you are.
+
+## Installation
+To get started with the Grammar & Listening Practice App, follow these steps:
+
+1. Clone this repository or download the app from our website.
+2. Install the app on your preferred device.
+3. Create a user account or sign in to access all features.
+
+## Usage
+Once installed, simply log in and start exploring the app's grammar exercises and listening materials. Practice regularly to improve your English skills.
+
+## Contribution
+We welcome contributions from the community. If you'd like to contribute to the app's development, please follow our Contribution Guidelines.
+
+## Credits
+This app was made possible with the help of various open-source libraries and resources. We'd like to give credit to the following individuals and organizations for their support:
+
+      Jensy José Figueroa Durán
+
+License
+The Grammar & Listening Practice App is distributed under the MIT License.
+
+## Contact
+If you have any questions, comments or need help, do not hesitate to contact us at https://portafolio-jensyfigueroa.vercel.app/ in the contact tab

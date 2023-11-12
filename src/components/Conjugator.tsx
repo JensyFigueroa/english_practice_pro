@@ -43,7 +43,8 @@ const VerbConjugator: React.FC = () => {
     const userConjugations = conjugationInputs.map(({ value }) => value.trim().toLowerCase());
 
     const correct = userConjugations.every((userConjugation) =>
-      correctConjugations.includes(userConjugation)
+      correctConjugations.includes(userConjugation.charAt(0).toUpperCase() + userConjugation.slice(1))
+      // console.log('test',correctConjugations,userConjugation.charAt(0).toUpperCase() + userConjugation.slice(1))
     );
 
     console.log(correct, 'variable')
